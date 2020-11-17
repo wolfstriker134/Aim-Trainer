@@ -1,7 +1,7 @@
 # Aim-Trainer
 Aim Trainer using the Python PyGame module
 
-DOWNLOADING
+## DOWNLOADING ##
 Do not delete the 'aim trainer assets' folder as it will break the game
 
 ## PLEASE READ ##
